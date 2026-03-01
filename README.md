@@ -269,6 +269,4 @@ GOOGLE_REFRESH_TOKEN=your_refresh_token
   - Ensure your client ID and secret are correct
   - Verify your credentials are properly set in your `.env` file
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
