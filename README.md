@@ -6,7 +6,7 @@ This project demonstrates a voice AI agent that can manage Google Calendar event
 
 ### Live Demo
 
-**Deployed URL:** [INSERT DEPLOYED URL HERE]
+**Deployed URL:** 
 
 ### How to Test
 
